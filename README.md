@@ -1,7 +1,7 @@
 # Art Book
 
 * [About the Project](#about-the-project)
-* [App Screens](#game-screen)
+* [App Screens](#app-screens)
 * [Built With](#built-with)
 * [Contact](#contact)
 
